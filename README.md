@@ -41,13 +41,7 @@ npm i
 
 # Start the development server
 npm run dev
-```
-
-## Deployment
-
-The easiest way to deploy this project is through [Lovable](https://lovable.dev/projects/9c71fc2f-9092-4dc8-82c9-366252c789a0). Simply click on Share -> Publish.
-
-For custom domain deployment, we recommend using Netlify. Visit the [Lovable docs](https://docs.lovable.dev/tips-tricks/custom-domain/) for more details.
+``.
 
 ## Vision
 
