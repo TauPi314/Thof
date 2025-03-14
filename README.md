@@ -25,30 +25,6 @@ This project is built with:
 - Supabase (for real-time database and authentication)
 - Pi Network integration
 
-## Development
-
-To work with this project locally:
-
-```sh
-# Clone the repository
-git clone <YOUR_GIT_URL>
-
-# Navigate to the project directory
-cd thof
-
-# Install dependencies
-npm i
-
-# Start the development server
-npm run dev
-```
-
-## Deployment
-
-The easiest way to deploy this project is through [Lovable](https://lovable.dev/projects/9c71fc2f-9092-4dc8-82c9-366252c789a0). Simply click on Share -> Publish.
-
-For custom domain deployment, we recommend using Netlify. Visit the [Lovable docs](https://docs.lovable.dev/tips-tricks/custom-domain/) for more details.
-
 ## Vision
 
 Thof aims to revolutionize how we create, distribute, and monetize digital content. By combining AI's creative potential with blockchain's transparency and security, we're building a platform where creators can collaborate without borders, audiences can discover innovative content, and everyone involved receives fair compensation for their contributions.
